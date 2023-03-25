@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.menu a {
+  text-decoration: none;
+}
+
+.menu a:hover {
+  text-decoration: underline;
+}
+
+ul {
+  list-style: none;
+}
+
+.dollar {
+  margin-top: 0.8rem;
+}
+
+small {
+  font-weight: 400;
+}
+
+.terms {
+  margin-top: 0.8rem;
+}
+
+.custom-button {
+  width: 100%;
+  padding: 12px;
+  line-height: 1.5;
+  font-size: 1.25rem;
+}
+
+.my-0 {
+  padding: 10px;
+  font-weight: normal;
+}
+
+footer a {
+  text-decoration: none;
+}
+
+.border-top {
+  width: 75%;
+  margin: auto;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
